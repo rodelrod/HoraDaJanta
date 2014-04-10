@@ -5,7 +5,7 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Hora da janta
-Exec=/usr/bin/chromium-browser --app=file:///home/rrodrigues/bin/HoraDaJanta/timer.html
-Icon=/home/rrodrigues/bin/HoraDaJanta/swiss_train_clock.png
-StartupWMClass=home_rrodrigues_Desktop_timer.html
+Exec=/usr/bin/chromium-browser --app=file:///home/rrodrigues/devel/util/HoraDaJanta/timer.html
+Icon=/home/rrodrigues/devel/util/HoraDaJanta/swiss_train_clock.png
+StartupWMClass=home_rrodrigues_devel_util_HoraDaJanta_timer.html
 Name[en_GB]=Hora da janta
